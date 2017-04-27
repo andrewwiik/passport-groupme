@@ -1,7 +1,7 @@
 {
   "name": "passport-groupme",
-  "version": "1.4.0",
-  "description": "OAuth 2.0 authentication strategy for Passport.",
+  "version": "1.0.0",
+  "description": "OAuth 2.0 authentication strategy for Passport for GroupMe.",
   "keywords": [
     "passport",
     "auth",
@@ -10,12 +10,13 @@
     "authz",
     "authorization",
     "oauth",
-    "oauth2"
+    "oauth2",
+    "groupme"
   ],
   "author": {
     "name": "Andrew Wiik",
     "email": "cardflourish101@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "url": "http://www.atwiiks.com/"
   },
   "repository": {
     "type": "git",
